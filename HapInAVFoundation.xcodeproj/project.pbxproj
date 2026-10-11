@@ -497,7 +497,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A42C2102BE97257001D8155 /* Sparkle.framework in Frameworks */,
 				1AB69BE32B7BDD790029FDEE /* libate.tbd in Frameworks */,
 				1A680E2A1A39F67E007678E5 /* CoreMedia.framework in Frameworks */,
 				1A1FBF042B83C9FB00EDAC0A /* Metal.framework in Frameworks */,
